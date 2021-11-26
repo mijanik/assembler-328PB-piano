@@ -2,7 +2,7 @@
 ;
 ; Projekt_MJ_AK.asm
 ;
-; Authors : Miłosz Janik & Antoni Kijania
+; Authors: Miłosz Janik & Antoni Kijania
 ;
 ; Taktowanie zegara: 16MHz
 ; 328PB Xplained Mini

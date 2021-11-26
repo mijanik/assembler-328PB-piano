@@ -1,4 +1,4 @@
-#Simple ASM Piano
+# Simple ASM Piano
 - Authors: Miłosz Janik with the help of Antoni Kijania
 - Platform: 328PB Xplained Mini
 - generate pulse signal with constant length
